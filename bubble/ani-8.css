@@ -52,15 +52,15 @@
 }
 
 @keyframes Eight{
-    0%{border-color:gold ; left:0px;}
-    25%{border-color:gold ; border-style: solid; left:115px;}
-    50%{border-color:gold ; border-style: solid; left:225px;}
-    75%{border-color:gold ; border-style: solid; left:335px;}
+    0%{border-color:crimson ; left:0px;}
+    25%{border-color:crimson ; border-style: solid; left:115px;}
+    50%{border-color:crimson ; border-style: solid; left:225px;}
+    75%{border-color:crimson ; border-style: solid; left:335px;}
     100%{left:335px;}
 }
 @keyframes Three{
     0%{right:0px;}
-    25%{border-color:gold ; border-style: solid; right:115px;}
+    25%{border-color:crimson ; border-style: solid; right:115px;}
     50%{right:115px; border-style: hidden;}
     75%{right:115px; border-style: hidden;}
     100%{right:115px; border-style: hidden;}
@@ -68,7 +68,7 @@
 @keyframes Two{
     0%{right:0px;}
     25%{right:0px;}
-    50%{border-color:gold ; border-style: solid; right:115px;}
+    50%{border-color:crimson ; border-style: solid; right:115px;}
     75%{right:115px; border-style: hidden;}
     100%{right:115px; border-style: hidden;}
 }
@@ -76,7 +76,7 @@
     0%{right:0px;}
     25%{right:0px;}
     50%{right:0px;}
-    75%{border-color:gold ; border-style: solid; right:115px;}
+    75%{border-color:crimson ; border-style: solid; right:115px;}
     100%{right:115px; border-style: hidden;}
 }
 
@@ -133,15 +133,15 @@
     animation-iteration-count: infinite;
 }
 @keyframes ONE_3{
-    0%{border-color:gold ; left:0px;}
-    25%{border-color:gold ; border-style: solid; left:115px;}
-    50%{border-color:gold ; border-style: solid; left:225px;}
-    75%{border-color:gold ; border-style: solid; left:225px;}
+    0%{border-color:crimson ; left:0px;}
+    25%{border-color:crimson ; border-style: solid; left:115px;}
+    50%{border-color:crimson ; border-style: solid; left:225px;}
+    75%{border-color:crimson ; border-style: solid; left:225px;}
     100%{left:225px;}
 }
 @keyframes TWO_2{
     0%{right:0px;}
-    25%{border-color:gold ; border-style: solid; right:115px;}
+    25%{border-color:crimson ; border-style: solid; right:115px;}
     50%{right:115px; }
     75%{right:115px; }
     100%{right:115px; }
@@ -149,7 +149,7 @@
 @keyframes THREE_1{
     0%{right:0px;}
     25%{right:0px;}
-    50%{border-color:gold ; border-style: solid; right:115px;}
+    50%{border-color:crimson ; border-style: solid; right:115px;}
     75%{right:115px;}
     100%{right:115px;}
 }
@@ -157,7 +157,7 @@
     0%{right:0px;}
     25%{right:0px;}
     50%{right:0px;}
-    75%{border-color:gold ; border-style: solid; right:0px;}
+    75%{border-color:crimson ; border-style: solid; right:0px;}
     100%{right:0px;}
 }
 
@@ -214,15 +214,15 @@
     animation-iteration-count: infinite;
 }
 @keyframes ONE_2{
-    0%{border-color:gold ; left:0px;}
-    25%{border-color:gold ; border-style: solid; left:115px;}
-    50%{border-color:gold ; border-style: solid; left:115px;}
-    75%{border-color:gold ; border-style: solid; left:115;}
+    0%{border-color:crimson ; left:0px;}
+    25%{border-color:crimson ; border-style: solid; left:115px;}
+    50%{border-color:crimson ; border-style: solid; left:115px;}
+    75%{border-color:crimson ; border-style: solid; left:115;}
     100%{left:115px;}
 }
 @keyframes TWO_1{
     0%{right:0px;}
-    25%{border-color:gold ; border-style: solid; right:115px;}
+    25%{border-color:crimson ; border-style: solid; right:115px;}
     50%{right:115px; border-color: aquamarine;}
     75%{right:115px; border-color: aquamarine;}
     100%{right:115px; border-color: aquamarine;}
@@ -230,7 +230,7 @@
 @keyframes THREE_3{
     0%{right:0px;}
     25%{right:0px;}
-    50%{border-color:gold ; border-style: solid; right:0px;}
+    50%{border-color:crimson ; border-style: solid; right:0px;}
     75%{right:0px; border-color: aquamarine;}
     100%{right:0px; border-color: aquamarine;}
 }
@@ -238,6 +238,6 @@
     0%{right:0px;}
     25%{right:0px;}
     50%{right:0px;}
-    75%{border-color:gold ; border-style: solid; right:0px;}
+    75%{border-color:crimson ; border-style: solid; right:0px;}
     100%{right:0px; border-color: aquamarine;}
 }
